@@ -1,4 +1,4 @@
-package com.codebreakers.elixir.model;
+package com.codebreakers.elixir;
 
 import java.util.EnumMap;
 import java.util.Map;
